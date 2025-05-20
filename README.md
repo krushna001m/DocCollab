@@ -97,3 +97,7 @@ To be implemented.
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ---
+## 👨‍💻 Author
+
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
